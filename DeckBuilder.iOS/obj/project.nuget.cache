@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "K0zpNAyx+Q97OYZR4Xm0WvXgKrpQUVcegIN10DQjGyL/PbXYlHZusJUZ1RVfdaA6zIOJ6Gwzpt9NaSS6AL0koQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\egome\\Documents\\GitRepos\\YugiohDeckBuider\\DeckBuilder.iOS\\DeckBuilder.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\egome\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\egome\\.nuget\\packages\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}
