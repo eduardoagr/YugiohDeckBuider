@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "DwWfxHatQWOCEmYsphq3/ou3d/0BbvUv9a3qGHRQ7JyzcnBWbcwXMwr0dG7gNkn/r83JwAk/vC8RouHL+eMIZg==",
+  "dgSpecHash": "g+eDsXP36AgpjLnql4tExEUcEMe8X6qpjRBorO0gpp9ICKK+GzsDPm4PjTDQpHbdPhJxEyc4ywqC98gJJPOzNA==",
   "success": true,
   "projectFilePath": "C:\\Users\\egome\\Documents\\GitRepos\\YugiohDeckBuider\\DeckBuilder.Android\\DeckBuilder.Android.csproj",
   "expectedPackageFiles": [
@@ -20,7 +20,7 @@
     "C:\\Users\\egome\\.nuget\\packages\\xamarin.android.support.core.ui\\28.0.0.3\\xamarin.android.support.core.ui.28.0.0.3.nupkg.sha512",
     "C:\\Users\\egome\\.nuget\\packages\\xamarin.android.support.core.utils\\28.0.0.3\\xamarin.android.support.core.utils.28.0.0.3.nupkg.sha512",
     "C:\\Users\\egome\\.nuget\\packages\\xamarin.android.support.cursoradapter\\28.0.0.3\\xamarin.android.support.cursoradapter.28.0.0.3.nupkg.sha512",
-    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.support.customtabs\\28.0.0.3\\xamarin.android.support.customtabs.28.0.0.3.nupkg.sha512",
+    "C:\\Users\\egome\\.nuget\\packages\\xamarin.android.support.customtabs\\28.0.0.3\\xamarin.android.support.customtabs.28.0.0.3.nupkg.sha512",
     "C:\\Users\\egome\\.nuget\\packages\\xamarin.android.support.customview\\28.0.0.3\\xamarin.android.support.customview.28.0.0.3.nupkg.sha512",
     "C:\\Users\\egome\\.nuget\\packages\\xamarin.android.support.design\\28.0.0.3\\xamarin.android.support.design.28.0.0.3.nupkg.sha512",
     "C:\\Users\\egome\\.nuget\\packages\\xamarin.android.support.documentfile\\28.0.0.3\\xamarin.android.support.documentfile.28.0.0.3.nupkg.sha512",
